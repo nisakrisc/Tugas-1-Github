@@ -1,0 +1,6 @@
+Tugas pertemuan 1 Github
+1. membuat akun github
+2. membuat repository
+3. membuat atau mengupload file
+4. membuat branch
+5. forking repository orang lain
